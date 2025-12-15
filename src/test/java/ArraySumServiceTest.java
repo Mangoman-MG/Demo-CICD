@@ -12,7 +12,7 @@ class ArraySumServiceTest {
     @Test
     void TestSumArray_Manghople(){
         int[] arr ={1,2,3,4,5};
-        int ex= 15;
+        int ex= 222;
         int re = service.sumArray(arr);
         assertEquals(ex,re);
 
