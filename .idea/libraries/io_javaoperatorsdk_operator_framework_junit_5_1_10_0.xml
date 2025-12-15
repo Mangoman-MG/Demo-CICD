@@ -1,0 +1,67 @@
+<component name="libraryTable">
+  <library name="io.javaoperatorsdk:operator-framework-junit-5:1.10.0" type="repository">
+    <properties maven-id="io.javaoperatorsdk:operator-framework-junit-5:1.10.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/javaoperatorsdk/operator-framework-junit-5/1.10.0/operator-framework-junit-5-1.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/javaoperatorsdk/operator-framework-core/1.10.0/operator-framework-core-1.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-client/5.10.1/openshift-client-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-client/5.10.1/kubernetes-client-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-core/5.10.1/kubernetes-model-core-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-rbac/5.10.1/kubernetes-model-rbac-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-admissionregistration/5.10.1/kubernetes-model-admissionregistration-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-apps/5.10.1/kubernetes-model-apps-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-autoscaling/5.10.1/kubernetes-model-autoscaling-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-apiextensions/5.10.1/kubernetes-model-apiextensions-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-batch/5.10.1/kubernetes-model-batch-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-certificates/5.10.1/kubernetes-model-certificates-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-coordination/5.10.1/kubernetes-model-coordination-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-discovery/5.10.1/kubernetes-model-discovery-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-events/5.10.1/kubernetes-model-events-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-extensions/5.10.1/kubernetes-model-extensions-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-flowcontrol/5.10.1/kubernetes-model-flowcontrol-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-networking/5.10.1/kubernetes-model-networking-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-metrics/5.10.1/kubernetes-model-metrics-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-policy/5.10.1/kubernetes-model-policy-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-scheduling/5.10.1/kubernetes-model-scheduling-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-storageclass/5.10.1/kubernetes-model-storageclass-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-node/5.10.1/kubernetes-model-node-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.12.12/okhttp-3.12.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.15.0/okio-1.15.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.12.12/logging-interceptor-3.12.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.0/jackson-dataformat-yaml-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.0/jackson-datatype-jsr310-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.13.0/jackson-databind-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.13.0/jackson-core-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/zjsonpatch/0.3.0/zjsonpatch-0.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model/5.10.1/openshift-model-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/kubernetes-model-common/5.10.1/kubernetes-model-common-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.13.0/jackson-annotations-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-clusterautoscaling/5.10.1/openshift-model-clusterautoscaling-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-operator/5.10.1/openshift-model-operator-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-operatorhub/5.10.1/openshift-model-operatorhub-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-machine/5.10.1/openshift-model-machine-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-whereabouts/5.10.1/openshift-model-whereabouts-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-monitoring/5.10.1/openshift-model-monitoring-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-storageversionmigrator/5.10.1/openshift-model-storageversionmigrator-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-tuned/5.10.1/openshift-model-tuned-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-console/5.10.1/openshift-model-console-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-machineconfig/5.10.1/openshift-model-machineconfig-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/fabric8/openshift-model-miscellaneous/5.10.1/openshift-model-miscellaneous-5.10.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.20.2/assertj-core-3.20.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/awaitility/awaitility/4.1.1/awaitility-4.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
